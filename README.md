@@ -1,6 +1,6 @@
 <h1>Exploratory Data Analysis of Airbnb Listings in London, UK</h1>
 
-  <p><strong>Author:</strong> Khan Faisal</p>
+  <p><strong>Author:</strong> Trisha Danole</p>
 
   <p>This project involves performing an Exploratory Data Analysis (EDA) on Airbnb listings in London, UK. The primary goal is to derive insights into pricing, availability, neighborhood trends, and other key metrics that can inform both hosts and guests, as well as data-driven business decisions.</p>
 
